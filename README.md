@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: 
 Passionate BCA student at ISM Patna with a focus on building efficient, user-centric applications. I specialize in C and Python, etc. with a keen interest in Systems Analysis and Design (SAD) and UI development. Currently exploring the intersection of clean code and intuitive design.<br><br>🔭 Currently working on: An Attendance Management System.<br><br>🌱 Learning: Advanced Python, C Language and Software Development Life Cycles (SDLC).<br><br>⚡ Interests: Smartphone technology, hardware performance, and UI/UX design.
 
 
